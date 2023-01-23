@@ -12,9 +12,11 @@ Where:
 An example of the output:
 
 $ /fileSearch.sh -c -a msg /mydata/scribbles
+
 ==== Contents of: /mydata/scribbles/msg2.txt ====
 Hi, I am msg2.txt
 Not all those who wander are lost.
+
 ==== Contents of: /mydata/scribbles/msg.txt ====
 Hello there, I am msg.txt
 
