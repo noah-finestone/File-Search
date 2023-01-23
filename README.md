@@ -4,7 +4,7 @@ A bash script for file search and content display.
 The script, called fileSearch.sh, searches for file names containing a specific string and has the option to display the file's contents. 
 The command syntax is:
 $ /fileSearch.sh [-c] [-a] pattern [path]
-Where:
+where:
 -c displays the file's contents
 -a displays all matching files, otherwise only one is shown
 'path' is the directory to search within, if not specified the current directory is used
